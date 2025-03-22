@@ -10,8 +10,8 @@
 	</parent>
 	<groupId>com.rseat</groupId>
 	<artifactId>pritice-rseat</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>pritice-rseat</name>
+	<version>0.0.1</version>
+	<name>practice-rseat</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
